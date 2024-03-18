@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp Kotlin</string>
+
+
+    <string name="Question">Who is known as the Father of the Indian Constitution?</string>
+    <string name="option">Narindera Modi</string>
+    <string name="answer">Dr.Rajendra Prasad</string>
+</resources>
